@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Amira Deuraseh
+- 👀 I’m interested in creating beautiful and thoughtful design for website and mobile apps
+- 🌱 I’m currently learning Android Kotlin & Vue,Nuxt
+- 💞️ I’m looking to collaborate on creating website and app for your business
+- 📫 How to reach me via Twitter/Instagram @amiradeuraseh
