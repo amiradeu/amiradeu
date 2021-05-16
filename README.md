@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Amira Deuraseh
 - 👀  I’m interested in creating beautiful and thoughtful design for website and mobile apps
-- 🌱  I’m currently learning native Android Kotlin & Vue,Nuxt
+- 🌱  I’m currently working with native Android Kotlin & Vue,Nuxt
 - 💞️  I’m looking to collaborate on creating website and app for your business
-- 📫  How to reach me via Twitter/Instagram @amiradeuraseh
+- 📫  Reach me via Email hello@amiradeuraseh.com or Twitter/Instagram @amiradeuraseh
