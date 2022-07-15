@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Amira Deuraseh
-- 👀  I’m interested in creating beautiful and thoughtful design for website and mobile apps
-- 🌱  I’m currently working with native Android Kotlin & Vue,Nuxt
-- 💞️  I’m looking to collaborate on creating website and app for your business
-- 📫  Reach me via Email hello@amiradeuraseh.com or Twitter/Instagram @amiradeuraseh
+- 👀  I’m interested in exploring web animation and interactions in the 2D & 3D workspace
+- 🌱  I’m currently working with Three.js, GLSL, Gsap, Vue, Nuxt
+- 💡  I’m looking to collaborate on creating website for your brand
+- 📧  Reach me via hello@amiradeuraseh.com or Twitter @amiradeuraseh
