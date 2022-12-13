@@ -1,5 +1,4 @@
-- 👋  Hi, I’m Amira Deuraseh
-- 👀  I’m interested in exploring web animation and interactions in the 2D & 3D workspace
-- 🌱  I’m currently working with Three.js, GLSL, Gsap, Vue, Nuxt
-- 💡  I’m looking to collaborate on creating website for your brand
+- 👋  Hey, I’m Amira Deuraseh
+- 👀  I’m interested in creative web development
+- 🌱  I’m currently working with Three.js, GLSL Shaders, React & R3F
 - 📧  Reach me via hello@amiradeuraseh.com or Twitter @amiradeuraseh
