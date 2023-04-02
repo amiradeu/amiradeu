@@ -2,4 +2,4 @@
 - 👀  I’m interested in creative web development
 - 🌱  I’m currently working with Three.js, GLSL Shaders, React & R3F
 - 🌐  Visit my [creative portfolio](https://amiradeuraseh.com)
-- 💌  Reach me via <hello@amiradeuraseh.com> or Twitter [@amiradeuraseh](https://twitter.com/amiradeuraseh)
+- 💌  Reach me via <hey@amiradeuraseh.com> or Twitter [@amiradeuraseh](https://twitter.com/amiradeuraseh)
